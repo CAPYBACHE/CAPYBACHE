@@ -20,7 +20,7 @@
 - 🎓 Currently studying at **FPT University**.
 - 🌱 Exploring modern **web tech**, **system architecture**, and **UI/UX design**.
 - 💡 Enjoying the process one line of code at a time.
-- 🎮 In my free time, I play **Valorant**, **LoL**, **CS2**, or **PUBG PC**.
+- 🎮 In my free time, I play **Black Myth Wukong**, **LoL**, **GTA V**, or **PUBG PC**.
 - 🏆 **Esports Enthusiast**: Huge fan of **T1** <img src="https://en.wikipedia.org/wiki/Special:FilePath/T1_logo.svg" height="16" alt="T1 Logo" />. My absolute idols are **Faker** & **TenZ**.
   
   <p align="left">
